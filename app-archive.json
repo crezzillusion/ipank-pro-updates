@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 3,
+  "appName": "Content Monitor",
+  "items": [
+    {
+      "version": "0.2.0",
+      "buildNumber": 2,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://crezzillusion.github.io/ipank-pro-updates/releases/stable/0.2.0/build-2/windows/release.json"
+    }
+  ],
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-72b9b2c31a6508c50b5dd34f",
+    "value": "bO9WvZfa22WlRLUTTOVhBGE42j188dIV6iQ6KHkJO9Z8ZkM7DLFpUJqsqD2vUK0XocyrRA2e4X9DUL9a1RFjBw=="
+  }
+}
