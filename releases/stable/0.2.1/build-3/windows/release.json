@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "packageId": "content_monitor",
+  "appName": "Content Monitor",
+  "version": "0.2.1",
+  "buildNumber": 3,
+  "platform": "windows",
+  "channel": "stable",
+  "artifact": {
+    "kind": "zip",
+    "url": "https://crezzillusion.github.io/ipank-pro-updates/releases/stable/0.2.1/build-3/windows/Content%20Monitor-0.2.1-windows.zip",
+    "sha256": "97c2d072a8dcb18f852df054cff0fdcc0f7ead16c58deee22d8342cbb3de7ab3",
+    "length": 16829044
+  },
+  "install": {
+    "strategy": "wholeDirectoryReplace"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-72b9b2c31a6508c50b5dd34f",
+    "value": "kHMiUgsKWhMRH/g3Z57oATAAzrAJS6TTitP6HMknyxRSUCr96TOAHaGVtmMNYoEykmAnwwAO0Xez9My8NuEaCw=="
+  },
+  "minimumUpdaterVersion": "2.0.0",
+  "generatedAt": "2026-10-17T07:53:09.786461Z"
+}
