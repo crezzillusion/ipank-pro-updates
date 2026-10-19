@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.5",
-    "build":  7,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-0.2.5-build7.zip",
-    "sha256":  "1294a20404d336d2fc7eb28eb682744fc546851c851c074f64296f87be29e209",
-    "size_bytes":  15537797,
-    "notes":  "Panel status di dasar halaman, scrollbar tabel lebih jelas dan lebar kolom tersimpan, kartu Ringkasan bisa diseret, tema Light lebih redup, perbaikan progres bar dan tooltip Cek API."
+    "version":  "1.0.0",
+    "build":  8,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.0.0-build8.zip",
+    "sha256":  "c6bd9261ec0284f1bd76aadb651b588ede63b1bc145d3a705ebcebeff5eac210",
+    "size_bytes":  15548944,
+    "notes":  "Rilis 1.0.0: panel status di dasar halaman, scrollbar tabel lebih jelas dan lebar kolom tersimpan, kartu Ringkasan bisa diseret, tema Light lebih redup, chip info seragam, Tambah Link lebih tahan link panjang, tombol Update, pencarian URL panjang, poles halaman Report dan Statistik API."
 }
