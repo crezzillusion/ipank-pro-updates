@@ -1,8 +1,8 @@
 {
-    "version":  "0.2.4",
-    "build":  6,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-0.2.4-build6.zip",
-    "sha256":  "571ee1e336600079e8d4c6688ccb48ace6a9e59372bf35bd3055724e6bb95975",
-    "size_bytes":  16354130,
-    "notes":  "Tujuan uji pembaruan: peluncur skrip diperbaiki."
+    "version":  "0.2.5",
+    "build":  7,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-0.2.5-build7.zip",
+    "sha256":  "1294a20404d336d2fc7eb28eb682744fc546851c851c074f64296f87be29e209",
+    "size_bytes":  15537797,
+    "notes":  "Panel status di dasar halaman, scrollbar tabel lebih jelas dan lebar kolom tersimpan, kartu Ringkasan bisa diseret, tema Light lebih redup, perbaikan progres bar dan tooltip Cek API."
 }
