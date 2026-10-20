@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.0",
-    "build":  8,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.0.0-build8.zip",
-    "sha256":  "c6bd9261ec0284f1bd76aadb651b588ede63b1bc145d3a705ebcebeff5eac210",
-    "size_bytes":  15548944,
-    "notes":  "Rilis 1.0.0: panel status di dasar halaman, scrollbar tabel lebih jelas dan lebar kolom tersimpan, kartu Ringkasan bisa diseret, tema Light lebih redup, chip info seragam, Tambah Link lebih tahan link panjang, tombol Update, pencarian URL panjang, poles halaman Report dan Statistik API."
+    "version":  "1.1.0",
+    "build":  9,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.1.0-build9.zip",
+    "sha256":  "57f55a9e77848121d7261e393e911e9f0379242e8de39b2d5a2d1ec809959cf9",
+    "size_bytes":  15636200,
+    "notes":  "- Scan Channel: halaman baru untuk mencari Temuan dari channel pelacak, lengkap dengan skor kecocokan dan keputusan per Temuan.\n- Ringkasan: kartu Channel hanya menampilkan video utama (tanpa Shorts dan Live), plus daftar baru \"Views naik\" per selang yang bisa diatur di Settings.\n- Monitoring: durasi lebih dari 10 menit diberi keterangan Kompilasi; tab kategori kini di tengah dengan label kapital.\n- Settings: catatan rilis tampil sebelum Perbarui sekarang."
 }
