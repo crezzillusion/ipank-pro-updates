@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.0",
-    "build":  9,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.1.0-build9.zip",
-    "sha256":  "57f55a9e77848121d7261e393e911e9f0379242e8de39b2d5a2d1ec809959cf9",
-    "size_bytes":  15636200,
-    "notes":  "- Scan Channel: halaman baru untuk mencari Temuan dari channel pelacak, lengkap dengan skor kecocokan dan keputusan per Temuan.\n- Ringkasan: kartu Channel hanya menampilkan video utama (tanpa Shorts dan Live), plus daftar baru \"Views naik\" per selang yang bisa diatur di Settings.\n- Monitoring: durasi lebih dari 10 menit diberi keterangan Kompilasi; tab kategori kini di tengah dengan label kapital.\n- Settings: catatan rilis tampil sebelum Perbarui sekarang."
+    "version":  "1.2.0",
+    "build":  10,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.2.0-build10.zip",
+    "sha256":  "e2b5e9de2d7bf3f291e57c99c380342c944d7597cb48c49718e3857cdbcf803e",
+    "size_bytes":  15857559,
+    "notes":  "- Tampilan lebih rapi dan seragam di semua halaman: ikon lebih tajam, teks tabel dan panel Detail ditata ulang.\n- Tabel: Keputusan, Kategori, Sumber, dan Riwayat kini tampil sebagai tag berwarna; riwayat status bergambar panah.\n- Scan Channel: kolom Views dan Label AI di tabel Temuan; kartu Judul Lagu, Kata Kunci, Hashtag bisa dilipat.\n- Scan Channel: daftar Channel Target mengisi layar, lebih mudah dibaca, dan tidak lagi tergulir ganda di layar kecil.\n- Monitoring dan Temuan: tombol aksi di panel Detail selalu terlihat di dasar panel.\n- Keyboard: F6 berpindah antarwilayah dan antarkartu; Ctrl+C, Esc, Ctrl+J, Shift+klik di tabel.\n- Judul kolom dan hitungan tidak lagi terpotong; isi kartu Hasil Terakhir kembali rata kiri."
 }
