@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.2",
-    "build":  12,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.2.2-build12.zip",
-    "sha256":  "dad425e51b2ad347bdb611c5c9f2200178df320edc4b80cf01c4e50c37f3412e",
-    "size_bytes":  15857529,
-    "notes":  "- Settings: bagian Pembaruan kini bernama Update; tombol pemeriksaan menjadi \"Check Updates\".\n- Semua pesan terkait update memakai istilah yang sama (Memeriksa update, Mengunduh update, Update gagal)."
+    "version":  "1.4.1",
+    "build":  15,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.4.1-build15.zip",
+    "sha256":  "1f4c111fab12819065717350a5a7b4f36dc7e2390512c62a6149e60c627b3e8f",
+    "size_bytes":  15863446,
+    "notes":  "- Panel Detail: ukuran teks judul dan nilai disetel ulang agar lebih nyaman dibaca.\n- Panel Detail dan Detail Temuan: baris data kolom kiri dan kanan kini sejajar."
 }
