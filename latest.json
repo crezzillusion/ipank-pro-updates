@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.0",
-    "build":  10,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.2.0-build10.zip",
-    "sha256":  "e2b5e9de2d7bf3f291e57c99c380342c944d7597cb48c49718e3857cdbcf803e",
-    "size_bytes":  15857559,
-    "notes":  "- Tampilan lebih rapi dan seragam di semua halaman: ikon lebih tajam, teks tabel dan panel Detail ditata ulang.\n- Tabel: Keputusan, Kategori, Sumber, dan Riwayat kini tampil sebagai tag berwarna; riwayat status bergambar panah.\n- Scan Channel: kolom Views dan Label AI di tabel Temuan; kartu Judul Lagu, Kata Kunci, Hashtag bisa dilipat.\n- Scan Channel: daftar Channel Target mengisi layar, lebih mudah dibaca, dan tidak lagi tergulir ganda di layar kecil.\n- Monitoring dan Temuan: tombol aksi di panel Detail selalu terlihat di dasar panel.\n- Keyboard: F6 berpindah antarwilayah dan antarkartu; Ctrl+C, Esc, Ctrl+J, Shift+klik di tabel.\n- Judul kolom dan hitungan tidak lagi terpotong; isi kartu Hasil Terakhir kembali rata kiri."
+    "version":  "1.2.2",
+    "build":  12,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.2.2-build12.zip",
+    "sha256":  "dad425e51b2ad347bdb611c5c9f2200178df320edc4b80cf01c4e50c37f3412e",
+    "size_bytes":  15857529,
+    "notes":  "- Settings: bagian Pembaruan kini bernama Update; tombol pemeriksaan menjadi \"Check Updates\".\n- Semua pesan terkait update memakai istilah yang sama (Memeriksa update, Mengunduh update, Update gagal)."
 }
