@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.1",
-    "build":  15,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.4.1-build15.zip",
-    "sha256":  "1f4c111fab12819065717350a5a7b4f36dc7e2390512c62a6149e60c627b3e8f",
-    "size_bytes":  15863446,
-    "notes":  "- Panel Detail: ukuran teks judul dan nilai disetel ulang agar lebih nyaman dibaca.\n- Panel Detail dan Detail Temuan: baris data kolom kiri dan kanan kini sejajar."
+    "version":  "1.6.0",
+    "build":  17,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.6.0-build17.zip",
+    "sha256":  "493c1a68fa963f57319b53952621807ab648656511c19a435e81b62cf52f5eba",
+    "size_bytes":  16494625,
+    "notes":  "- Login: layar pilih akun Administrator atau Moderator. Moderator membuat password sendiri saat pertama masuk.\n- Pemutar video: bilah Putar/Berhenti selalu tampil di bawah thumbnail, tanpa tombol di tengah gambar.\n- Monitoring: status video pindah ke samping thumbnail; Scan dan Update bisa untuk link yang dicentang saja.\n- Pintasan baru: Ctrl+O buka, Ctrl+Shift+C salin ID, Ctrl+M Monitoring, Ctrl+Tab ganti tab, Ctrl+N tambah, Alt+B/P/U keputusan Temuan. Daftar lengkap di Settings.\n- Tabel: \"Reset lebar kolom\" merapatkan kolom agar semua terlihat tanpa gulir ke samping.\n- Ringkasan: Views naik menampilkan total views; amber berarti lebih pelan dari jam yang sama kemarin.\n- Ringkasan: titik grafik live terus berdenyut; garis biru saat tren stabil.\n- Strike: Keluarkan dari antrean kini minta konfirmasi dulu. Perubahan: tab rentang di tengah."
 }
