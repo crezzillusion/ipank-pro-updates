@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.0",
-    "build":  17,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.6.0-build17.zip",
-    "sha256":  "493c1a68fa963f57319b53952621807ab648656511c19a435e81b62cf52f5eba",
-    "size_bytes":  16494625,
-    "notes":  "- Login: layar pilih akun Administrator atau Moderator. Moderator membuat password sendiri saat pertama masuk.\n- Pemutar video: bilah Putar/Berhenti selalu tampil di bawah thumbnail, tanpa tombol di tengah gambar.\n- Monitoring: status video pindah ke samping thumbnail; Scan dan Update bisa untuk link yang dicentang saja.\n- Pintasan baru: Ctrl+O buka, Ctrl+Shift+C salin ID, Ctrl+M Monitoring, Ctrl+Tab ganti tab, Ctrl+N tambah, Alt+B/P/U keputusan Temuan. Daftar lengkap di Settings.\n- Tabel: \"Reset lebar kolom\" merapatkan kolom agar semua terlihat tanpa gulir ke samping.\n- Ringkasan: Views naik menampilkan total views; amber berarti lebih pelan dari jam yang sama kemarin.\n- Ringkasan: titik grafik live terus berdenyut; garis biru saat tren stabil.\n- Strike: Keluarkan dari antrean kini minta konfirmasi dulu. Perubahan: tab rentang di tengah."
+    "version":  "1.7.0",
+    "build":  18,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.7.0-build18.zip",
+    "sha256":  "82a04b6ab17f933e94a22ffe916bddd5888c65d81157bb0a87684caece4fc652",
+    "size_bytes":  16549448,
+    "notes":  "- Halaman Kandidat digabung ke Monitoring: filter Pengiriman dan tombol Buat Batch (juga di menu klik kanan).\n- Status link diperiksa otomatis tiap 15 menit selama aplikasi terbuka; perubahan muncul sebagai pemberitahuan.\n- Views link di Monitoring diperbarui otomatis tiap 5 menit, dengan kuota API lebih hemat dan rincian per sumber.\n- Batch bertanggal masa depan menjadi batch terjadwal (Tag Dijadwalkan) dan diberi peringatan di formulir.\n- Strike Historis: link yang sudah di-strike dapat dimasukkan dengan tanggal dan kategori.\n- Pengingat: kolom cari batch, kolom Online, dan pesan dapat diseleksi.\n- Hapus channel target di Scan Channel dapat diurungkan.\n- Menu dan gulir tabel tidak lagi tertinggal saat video diputar; Scan Semua lebih ringan."
 }
