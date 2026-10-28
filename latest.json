@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.0",
-    "build":  18,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.7.0-build18.zip",
-    "sha256":  "82a04b6ab17f933e94a22ffe916bddd5888c65d81157bb0a87684caece4fc652",
-    "size_bytes":  16549448,
-    "notes":  "- Halaman Kandidat digabung ke Monitoring: filter Pengiriman dan tombol Buat Batch (juga di menu klik kanan).\n- Status link diperiksa otomatis tiap 15 menit selama aplikasi terbuka; perubahan muncul sebagai pemberitahuan.\n- Views link di Monitoring diperbarui otomatis tiap 5 menit, dengan kuota API lebih hemat dan rincian per sumber.\n- Batch bertanggal masa depan menjadi batch terjadwal (Tag Dijadwalkan) dan diberi peringatan di formulir.\n- Strike Historis: link yang sudah di-strike dapat dimasukkan dengan tanggal dan kategori.\n- Pengingat: kolom cari batch, kolom Online, dan pesan dapat diseleksi.\n- Hapus channel target di Scan Channel dapat diurungkan.\n- Menu dan gulir tabel tidak lagi tertinggal saat video diputar; Scan Semua lebih ringan."
+    "version":  "1.7.1",
+    "build":  19,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.7.1-build19.zip",
+    "sha256":  "4280f19b794ba381a1090c16c2b06b9e2004a8461a9b1d816c3524010a227961",
+    "size_bytes":  16553489,
+    "notes":  "- Tag Status otomatis dan Views otomatis pindah ke status bar di bawah, dengan penjelasan saat kursor diarahkan.\n- Tombol Scan dan Update di Monitoring tidak lagi terpotong di layar 1366x768.\n- Settings dibagi tiga tab: Tampilan, Data, dan Pintasan keyboard; tiap tab muat tanpa digulir.\n- Ctrl+Tab berpindah tab di Settings."
 }
