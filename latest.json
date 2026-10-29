@@ -1,8 +1,8 @@
 {
-    "version":  "1.8.0",
-    "build":  21,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.8.0-build21.zip",
-    "sha256":  "7c1d1eda42d8b5b136e5e807f4d59de44441ad4918b56f4103814a0478e34415",
-    "size_bytes":  16564060,
-    "notes":  "- Ringkasan: daftar Views naik bertukar tempat seperti leaderboard, meluncur dengan pudar dan skala halus serta jeda berurutan.\n- Ringkasan: video yang keluar dan masuk tiga besar meluncur ke dan dari bawah daftar, saling bersilangan.\n- Pemakaian kuota API tidak lagi kembali ke 0 setelah aplikasi dibuka ulang; tersimpan tiap 5 menit dan saat ditutup.\n- Menutup aplikasi kini seketika; penyimpanan berjalan di belakang.\n- Strike: tombol Strike Historis pindah ke header Sudah di-strike; tanggal strike tidak bisa melewati hari ini.\n- Strike: pencarian tanpa hasil ditandai jelas; toast Scan Ulang menyebut status hasilnya.\n- Statistik API: warna Hasil Terakhir mengikuti hasil; ikon pemuat berputar.\n- Perbaikan kecil: lencana Riwayat Batch tidak terpotong, teks Ringkasan tidak meluap, animasi patuh \"kurangi animasi\"."
+    "version":  "1.9.0",
+    "build":  22,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.9.0-build22.zip",
+    "sha256":  "7169a8fe8b771ffe02b566e1225a7da1a627ee939f09308595cd46bd14aa048f",
+    "size_bytes":  16590062,
+    "notes":  "- Scan Channel: channel tanpa video tidak lagi gagal, nama channel tetap tersimpan, dan pesan gagal scan tetap tampil di baris channel.\n- Scan Channel: tombol Update di Detail Temuan sama dengan Monitoring; Views bertag umur data, tanggal Ditemukan ditulis lengkap.\n- Monitoring: tiap tab menampilkan views yang masih tayang dan yang berhasil diturunkan; toast Channel Target punya tombol Lihat.\n- Riwayat Status: Linimasa status dengan rentang tanggal dan status sekarang; kolom tanggal sejajar, kirim ulang sebagai tag.\n- Ringkasan: grup Views menampilkan video tertinggi yang masih Online, views masih tayang, dan views berhasil diturunkan, ikut naik otomatis.\n- Ringkasan: kartu Channel menampilkan waktu mundur ke pembaruan berikutnya; keterangan Diperbarui pindah ke kiri bawah.\n- Toast hasil Update dan Scan Channel tetap tampil sampai ditutup.\n- Teks popup menu sedikit lebih kecil."
 }
