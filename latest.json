@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.1",
-    "build":  19,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.7.1-build19.zip",
-    "sha256":  "4280f19b794ba381a1090c16c2b06b9e2004a8461a9b1d816c3524010a227961",
-    "size_bytes":  16553489,
-    "notes":  "- Tag Status otomatis dan Views otomatis pindah ke status bar di bawah, dengan penjelasan saat kursor diarahkan.\n- Tombol Scan dan Update di Monitoring tidak lagi terpotong di layar 1366x768.\n- Settings dibagi tiga tab: Tampilan, Data, dan Pintasan keyboard; tiap tab muat tanpa digulir.\n- Ctrl+Tab berpindah tab di Settings."
+    "version":  "1.8.0",
+    "build":  21,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.8.0-build21.zip",
+    "sha256":  "7c1d1eda42d8b5b136e5e807f4d59de44441ad4918b56f4103814a0478e34415",
+    "size_bytes":  16564060,
+    "notes":  "- Ringkasan: daftar Views naik bertukar tempat seperti leaderboard, meluncur dengan pudar dan skala halus serta jeda berurutan.\n- Ringkasan: video yang keluar dan masuk tiga besar meluncur ke dan dari bawah daftar, saling bersilangan.\n- Pemakaian kuota API tidak lagi kembali ke 0 setelah aplikasi dibuka ulang; tersimpan tiap 5 menit dan saat ditutup.\n- Menutup aplikasi kini seketika; penyimpanan berjalan di belakang.\n- Strike: tombol Strike Historis pindah ke header Sudah di-strike; tanggal strike tidak bisa melewati hari ini.\n- Strike: pencarian tanpa hasil ditandai jelas; toast Scan Ulang menyebut status hasilnya.\n- Statistik API: warna Hasil Terakhir mengikuti hasil; ikon pemuat berputar.\n- Perbaikan kecil: lencana Riwayat Batch tidak terpotong, teks Ringkasan tidak meluap, animasi patuh \"kurangi animasi\"."
 }
