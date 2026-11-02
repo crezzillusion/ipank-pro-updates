@@ -1,8 +1,8 @@
 {
-    "version":  "1.9.0",
-    "build":  22,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.9.0-build22.zip",
-    "sha256":  "7169a8fe8b771ffe02b566e1225a7da1a627ee939f09308595cd46bd14aa048f",
-    "size_bytes":  16590062,
-    "notes":  "- Scan Channel: channel tanpa video tidak lagi gagal, nama channel tetap tersimpan, dan pesan gagal scan tetap tampil di baris channel.\n- Scan Channel: tombol Update di Detail Temuan sama dengan Monitoring; Views bertag umur data, tanggal Ditemukan ditulis lengkap.\n- Monitoring: tiap tab menampilkan views yang masih tayang dan yang berhasil diturunkan; toast Channel Target punya tombol Lihat.\n- Riwayat Status: Linimasa status dengan rentang tanggal dan status sekarang; kolom tanggal sejajar, kirim ulang sebagai tag.\n- Ringkasan: grup Views menampilkan video tertinggi yang masih Online, views masih tayang, dan views berhasil diturunkan, ikut naik otomatis.\n- Ringkasan: kartu Channel menampilkan waktu mundur ke pembaruan berikutnya; keterangan Diperbarui pindah ke kiri bawah.\n- Toast hasil Update dan Scan Channel tetap tampil sampai ditutup.\n- Teks popup menu sedikit lebih kecil."
+    "version":  "1.11.0",
+    "build":  24,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.11.0-build24.zip",
+    "sha256":  "d9a7d90319f3bfbff5cbf835c9c8a0bf18222e10d882c8e2713e1d0bc449b318",
+    "size_bytes":  16606365,
+    "notes":  "- Kotak cari: kata dipisah spasi, label Tag ikut dicari (Kompilasi, Import Link, Tidak diketahui, Keputusan), dan awalan - mengecualikan kata (-kompilasi = Non Kompilasi).\n- Settings: tab Pintasan Keyboard menjadi Bantuan, berisi pintasan di kiri dan Tips Pencarian di kanan dengan teks lebih besar.\n- Ringkasan: menu klik kanan di Baru saja offline, Channel terbanyak, dan Views.\n- Channel Target: tabel dengan cari, filter, urut, centang, Scan/Delete massal dengan Urungkan, dan kolom Ditambahkan.\n- Setup membawa WebView2 Runtime bila belum terpasang di PC.\n- Tambah Link ke batch membaca banyak link per baris dan menolak teks yang bukan link YouTube."
 }
