@@ -1,8 +1,8 @@
 {
-    "version":  "1.11.0",
-    "build":  24,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/IPANK-PRO-Content-Suite-1.11.0-build24.zip",
-    "sha256":  "d9a7d90319f3bfbff5cbf835c9c8a0bf18222e10d882c8e2713e1d0bc449b318",
-    "size_bytes":  16606365,
-    "notes":  "- Kotak cari: kata dipisah spasi, label Tag ikut dicari (Kompilasi, Import Link, Tidak diketahui, Keputusan), dan awalan - mengecualikan kata (-kompilasi = Non Kompilasi).\n- Settings: tab Pintasan Keyboard menjadi Bantuan, berisi pintasan di kiri dan Tips Pencarian di kanan dengan teks lebih besar.\n- Ringkasan: menu klik kanan di Baru saja offline, Channel terbanyak, dan Views.\n- Channel Target: tabel dengan cari, filter, urut, centang, Scan/Delete massal dengan Urungkan, dan kolom Ditambahkan.\n- Setup membawa WebView2 Runtime bila belum terpasang di PC.\n- Tambah Link ke batch membaca banyak link per baris dan menolak teks yang bukan link YouTube."
+    "version":  "1.16.2",
+    "build":  33,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/Tiang-Paga-1.16.2-build33.zip",
+    "sha256":  "feadc05a369ac867ba1e972f06335d510802d0b62c3f9376c43db21a314d435e",
+    "size_bytes":  17620886,
+    "notes":  "- PENTING sebelum update dari versi lama: jalankan Export Database dan simpan berkasnya. Versi ini memakai database dan folder data baru, jadi data lama dimasukkan lagi lewat Import Database setelah update.\n- Nama aplikasi kini Tiang Paga.\n- Penyimpanan pindah ke SQLite, lebih siap untuk ribuan link.\n- Navigasi: Pengingat menjadi Laporan; isi Report dan Statistik API pindah ke tab Settings; pintasan Ctrl+1 sampai Ctrl+7.\n- Import Database: status pasti dan blokir API tidak lagi tertimpa, strike dan judul kosong dilengkapi, batch tidak bentrok, dan Temuan ikut pindah.\n- Pengaman: simpan ditolak bila database ditimpa dari luar saat aplikasi terbuka.\n- Konfirmasi Overwrite kini menyebut semua yang akan diganti.\n- Perbaikan: hover sidebar dan tombol jendela tidak lagi bisa hilang.\n- API key dan password Moderator kini disimpan di folder data tiang_paga yang sama. Setelah update, isi ulang keduanya di Settings bila tampak kosong."
 }
