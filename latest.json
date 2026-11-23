@@ -1,8 +1,8 @@
 {
-    "version":  "1.16.2",
-    "build":  33,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/Tiang-Paga-1.16.2-build33.zip",
-    "sha256":  "feadc05a369ac867ba1e972f06335d510802d0b62c3f9376c43db21a314d435e",
-    "size_bytes":  17620886,
-    "notes":  "- PENTING sebelum update dari versi lama: jalankan Export Database dan simpan berkasnya. Versi ini memakai database dan folder data baru, jadi data lama dimasukkan lagi lewat Import Database setelah update.\n- Nama aplikasi kini Tiang Paga.\n- Penyimpanan pindah ke SQLite, lebih siap untuk ribuan link.\n- Navigasi: Pengingat menjadi Laporan; isi Report dan Statistik API pindah ke tab Settings; pintasan Ctrl+1 sampai Ctrl+7.\n- Import Database: status pasti dan blokir API tidak lagi tertimpa, strike dan judul kosong dilengkapi, batch tidak bentrok, dan Temuan ikut pindah.\n- Pengaman: simpan ditolak bila database ditimpa dari luar saat aplikasi terbuka.\n- Konfirmasi Overwrite kini menyebut semua yang akan diganti.\n- Perbaikan: hover sidebar dan tombol jendela tidak lagi bisa hilang.\n- API key dan password Moderator kini disimpan di folder data tiang_paga yang sama. Setelah update, isi ulang keduanya di Settings bila tampak kosong."
+    "version":  "1.17.0",
+    "build":  34,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/Tiang-Paga-1.17.0-build34.zip",
+    "sha256":  "5682ef7c2fb08f8d3e0e41a287df657983d9a33cc8bfbe377c4cd99450dda765",
+    "size_bytes":  17727605,
+    "notes":  "- PENTING bila update dari versi lama (1.11 atau sebelumnya): jalankan Export Database dulu dan simpan berkasnya. Versi ini memakai database dan folder data baru, jadi data lama dimasukkan lagi lewat Import Database setelah update.\n- Baru: tab Pencarian YouTube di Scan Channel. Tekan Cari untuk mencari video baru di seluruh YouTube memakai judul lagu, hashtag, dan kata kunci, dengan jatah unit harian sendiri.\n- Whitelist Channel dan Saran Channel: channel tepercaya dilewati pencarian; channel yang sering muncul bisa dijadikan Channel Target.\n- Nama aplikasi kini Tiang Paga; penyimpanan pindah ke SQLite, lebih siap untuk ribuan link.\n- Navigasi: Pengingat menjadi Laporan; isi Report dan Statistik API pindah ke tab Settings; pintasan Ctrl+1 sampai Ctrl+7.\n- Import Database lebih aman: status pasti dan blokir API tidak tertimpa, batch tidak bentrok, dan Temuan ikut pindah.\n- Perbaikan: hover sidebar dan tombol jendela tidak lagi bisa hilang.\n- API key dan password Moderator kini di folder data tiang_paga. Setelah update, isi ulang keduanya di Settings bila tampak kosong."
 }
