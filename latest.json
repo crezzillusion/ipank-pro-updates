@@ -1,8 +1,8 @@
 {
-    "version":  "1.17.0",
-    "build":  34,
-    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/Tiang-Paga-1.17.0-build34.zip",
-    "sha256":  "5682ef7c2fb08f8d3e0e41a287df657983d9a33cc8bfbe377c4cd99450dda765",
-    "size_bytes":  17727605,
-    "notes":  "- PENTING bila update dari versi lama (1.11 atau sebelumnya): jalankan Export Database dulu dan simpan berkasnya. Versi ini memakai database dan folder data baru, jadi data lama dimasukkan lagi lewat Import Database setelah update.\n- Baru: tab Pencarian YouTube di Scan Channel. Tekan Cari untuk mencari video baru di seluruh YouTube memakai judul lagu, hashtag, dan kata kunci, dengan jatah unit harian sendiri.\n- Whitelist Channel dan Saran Channel: channel tepercaya dilewati pencarian; channel yang sering muncul bisa dijadikan Channel Target.\n- Nama aplikasi kini Tiang Paga; penyimpanan pindah ke SQLite, lebih siap untuk ribuan link.\n- Navigasi: Pengingat menjadi Laporan; isi Report dan Statistik API pindah ke tab Settings; pintasan Ctrl+1 sampai Ctrl+7.\n- Import Database lebih aman: status pasti dan blokir API tidak tertimpa, batch tidak bentrok, dan Temuan ikut pindah.\n- Perbaikan: hover sidebar dan tombol jendela tidak lagi bisa hilang.\n- API key dan password Moderator kini di folder data tiang_paga. Setelah update, isi ulang keduanya di Settings bila tampak kosong."
+    "version":  "1.18.1",
+    "build":  36,
+    "zip_url":  "https://crezzillusion.github.io/ipank-pro-updates/Tiang-Paga-1.18.1-build36.zip",
+    "sha256":  "3bc8888298a315de77ded2dc806374716924aae285d4010e14b39a5e487b9294",
+    "size_bytes":  17731517,
+    "notes":  "- PENTING bila update dari versi lama (1.11 atau sebelumnya): jalankan Export Database dulu dan simpan berkasnya. Versi ini memakai database dan folder data baru, jadi data lama dimasukkan lagi lewat Import Database setelah update.\r\n- Baru: Arsip link Offline. Link Offline yang sudah dicek di browser bisa diarsipkan lewat klik kanan; tidak diperiksa lagi dan disembunyikan, bisa dilihat lewat chip Diarsipkan.\r\n- Baru: tab Pencarian YouTube di Scan Channel, dengan Whitelist Channel dan Saran Channel.\r\n- Monitoring: chip Semua kini berarti tanpa filter, dan pindah tab melepas filter supaya link tidak tampak hilang.\r\n- Monitoring: chip Pengiriman pindah ke paling akhir; Tag views di baris sendiri.\r\n- Teks lebih jelas di semua halaman. \"Berhasil Diturunkan\" menjadi \"Capaian Penertiban\" dan filter Error menjadi \"Perlu Verifikasi\".\r\n- Nama aplikasi kini Tiang Paga; penyimpanan pindah ke SQLite untuk ribuan link.\r\n- API key dan password Moderator kini di folder data tiang_paga. Setelah update, isi ulang keduanya di Settings bila tampak kosong."
 }
